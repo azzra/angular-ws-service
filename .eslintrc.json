@@ -3,8 +3,7 @@
         "browser": true
     },
     "globals": {
-        "angular": false,
-        "_": false
+        "angular": false
     },
     "extends": "eslint:recommended",
     "rules": {
