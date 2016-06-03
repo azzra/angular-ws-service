@@ -9,6 +9,7 @@
     "gulp-minify": "0.0.12"
   },
   "scripts": {
+    "install": "bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
